@@ -25,4 +25,5 @@ Este es el proyecto final de la materia de **Programacion Y Metodos Numericos** 
 
 * [Practica 11- Metodos de ecuaciones lineales](https://github.com/Gabriel-1234-RG/Proyecto_PYMN_Grupo-21_2020-2./tree/main/Practica%2011)
 
+#Gracias por su atencion.
 
