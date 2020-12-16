@@ -7,7 +7,7 @@ Gabriel Rodriguez Garcia
 
 Grupo:21
 
-* [Practica 1- Introduccion y tipos de variables]_(https://github.com/Gabriel-1234-RG/Proyecto_PYMN_Grupo-21_2020-2./tree/main/Practica%201)
+* [Practica 1- Introduccion y tipos de variables](https://github.com/Gabriel-1234-RG/Proyecto_PYMN_Grupo-21_2020-2./tree/main/Practica%201)
 
 
 
