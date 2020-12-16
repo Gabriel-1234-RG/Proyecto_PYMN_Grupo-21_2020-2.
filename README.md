@@ -1,11 +1,13 @@
-# Proyecto Programacion Y Metodos Numericos 2020-2
-# Universidad Autonoma de Baja Callifornia
+# Proyecto Programacion Y Metodos Numericos 2020-2.
+# Universidad Autonoma de Baja California.
 
-PROYECTO FINAL
+_PROYECTO FINAL_
 
-Gabriel Rodriguez Garcia 
+**Gabriel Rodriguez Garcia** 
 
-Grupo:21
+Grupo: 21
+
+Este es el proyecto final de la materia de **Programacion Y Metodos Numericos** en la _Universidad Autonoma de Baja California_, en el cual se presentaran los trabajos realizados en el transcurso del semestre.  
 
 * [Practica 1- Introduccion y tipos de variables](https://github.com/Gabriel-1234-RG/Proyecto_PYMN_Grupo-21_2020-2./tree/main/Practica%201)
 
